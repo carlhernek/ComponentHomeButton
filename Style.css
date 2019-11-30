@@ -4,9 +4,9 @@
     display: flex;
     justify-items: flex-start;
     position: fixed;
-    right: 50px;
+    left: 100px;
     top: 100px;
-    width: 30%;
+    width: 100%
 }
 
 .homecontainer .homebutton {
